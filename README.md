@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mingtendo
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning algorithms
+- 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on anything funky or cool
 - 📫 I have no pronouns; please do not refer to me
 
